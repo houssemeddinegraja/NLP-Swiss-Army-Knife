@@ -115,7 +115,7 @@ with gr.Blocks(theme=gr.themes.Glass()) as block:
                 <div style="background-color: #e0f2fe; border-left: 4px solid #0284c7; padding: 15px; margin-bottom: 20px; border-radius: 4px; font-size: 14px;">
                     <strong style="color: #0369a1; font-size: 16px;">💡 How this strict Extractive AI works:</strong>
                     <p style="color: #0c4a6e; margin-top: 5px; margin-bottom: 10px;">
-                        This AI acts like <strong>'Ctrl+F' on steroids</strong>. It will not read between the lines or guess. The exact answer must be grammatically explicit in the text.
+                        The exact answer must be grammatically explicit in the text. It will not read between the lines or guess. 
                     </p>
                     
                     <strong style="color: #0369a1;">❌ Bad Example (Conversational):</strong>
